@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Charly+%F0%9F%91%8B;Computer+Science+Graduate+%F0%9F%93%9D;Tech+%2B+AI+%2B+Cloud+enthusiast!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Charly+%F0%9F%91%8B;Computer+Science%F0%9F%93%9D;Tech+%2B+AI+enthusiast!+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 Hey! I'm Charly 👨‍💻 I'm a Computer Science graduate from Universidad Carlos III de Madrid.
