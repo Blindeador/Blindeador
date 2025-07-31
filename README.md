@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charly!
 
-I'm passionate about bringing to life the ideas in my mind — or anyone else's. I love building creative, impactful, and scalable tech projects using data, AI, and cloud technologies.
+I'm passionate about bringing to life the ideas in my mind or anyone else's. I love building creative, impactful, and scalable tech projects using data, AI, and cloud technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/carlos-pérez-gómez-911b8b290)
 
