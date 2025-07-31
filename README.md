@@ -37,7 +37,7 @@ I enjoy learning, experimenting with new tools, and collaborating on projects wi
 
 ## 🚀 Featured Projects
 
-- 🔒 **[Podcast Classifier using LLMs](https://github.com/Blindeador/System-for-classifying-podcasts-into-themes-using-large-language-models)** *(Private)*  
+- 🔒 **[Podcast Classifier using LLMs](https://github.com/Blindeador/System-for-classifying-podcasts-into-themes-using-large-language-models)** 
   Telegram bot that classifies podcast episodes by theme using large language models.
 
 - 🐶 **[Dog Breed Detector with Grad-CAM](https://github.com/Ferjodios/Dog-Breed-Detector-with-GRAD-Cam)**  
