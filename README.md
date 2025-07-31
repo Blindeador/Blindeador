@@ -4,7 +4,7 @@
 
 Hey! I'm Charly 👨‍💻 I'm a Computer Science graduate from Universidad Carlos III de Madrid.
 
-I'm passionate about bringing to life the ideas in my mind — or anyone else's. I love building creative, impactful, and scalable tech projects using data, AI, and cloud technologies.
+I'm passionate about bringing to life the ideas in my mind or anyone else's. I love building creative, impactful, and scalable tech projects using data, AI, and cloud technologies.
 
 I enjoy learning, experimenting with new tools, and collaborating on projects with real-world impact. Hope you find something useful or fun in my repositories! 😊
 
