@@ -10,16 +10,6 @@ I enjoy learning, experimenting with new tools, and collaborating on projects wi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blindeador&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Blindeador&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blindeador&layout=compact&langs_count=10&theme=tokyonight" />
-</p>
-
----
-
 ## ⚙️ Tech Stack
 
 <p align="center">
