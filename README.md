@@ -9,7 +9,7 @@ I'm passionate about bringing to life the ideas in my mind or anyone else's. I l
 ## 🧠 Skills & Technologies
 
 ### 👨‍💻 Programming & Software
-- **Python**, C, C#, C++, JavaScript, SQL:
+- **Python**, C, C#, C++, JavaScript:
 - Visual Studio Code
 - Git, GitHub, Bitbucket
 - Postman API
