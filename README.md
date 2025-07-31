@@ -51,6 +51,12 @@ I'm passionate about bringing to life the ideas in my mind or anyone else's. I l
   <img src="https://streak-stats.demolab.com/?user=Blindeador&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blindeador&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Blindeador&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blindeador&layout=compact&langs_count=10&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📝 Coming Soon
