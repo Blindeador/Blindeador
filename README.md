@@ -55,5 +55,3 @@ I'm passionate about bringing to life the ideas in my mind or anyone else's. I l
 
 ---
 
-## 📝 Coming Soon
-Stay tuned for new projects, GitHub Actions workflows, and blog posts — follow my work in [polv.dev](https://polv.dev)!
