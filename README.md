@@ -46,10 +46,6 @@ I'm passionate about bringing to life the ideas in my mind or anyone else's. I l
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blindeador&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=Blindeador&theme=radical" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blindeador&show_icons=true&theme=tokyonight" />
